@@ -1,3 +1,15 @@
+"""
+Heart Failure Prediction using Machine Learning
+
+This script performs:
+- data preprocessing
+- exploratory data analysis
+- SMOTE balancing
+- ensemble model training
+- model evaluation
+- feature selection
+"""
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
